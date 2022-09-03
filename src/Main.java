@@ -4,4 +4,6 @@ public class Main {
         String name = "Сергей";
         System.out.println(name + ", Ваша зарплата равна " + number);
     }
+
+    ///Ilia dobavi eshio familiu
 }

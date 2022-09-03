@@ -5,5 +5,6 @@ public class Main {
         System.out.println(name + ", Ваша зарплата равна " + number);
     }
 
+    //SOme text
     ///Ilia dobavi eshio familiu
 }

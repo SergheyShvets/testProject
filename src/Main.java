@@ -7,6 +7,6 @@ public class Main {
         System.out.println( "Ваша профессия " + profession);
     }
 
-    /////comment
-    ///comment for git fetch
+    /// final comment 4september
+
 }
